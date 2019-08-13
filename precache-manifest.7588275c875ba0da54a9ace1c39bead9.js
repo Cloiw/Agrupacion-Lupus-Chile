@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a8a9c17ecec55181cbca651b5248d11c",
+    "revision": "2492830576b0c8417f3200c53bf4bcf3",
     "url": "/Agrupacion-Lupus-Chile/index.html"
   },
   {
-    "revision": "e596248b06abeeee61b0",
+    "revision": "5f5a340d47409a93448d",
     "url": "/Agrupacion-Lupus-Chile/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "dde03277eb4ef0858253",
+    "revision": "60338a57051723a820cc",
     "url": "/Agrupacion-Lupus-Chile/static/css/main.f92da119.chunk.css"
   },
   {
-    "revision": "e596248b06abeeee61b0",
-    "url": "/Agrupacion-Lupus-Chile/static/js/2.f919c16d.chunk.js"
+    "revision": "5f5a340d47409a93448d",
+    "url": "/Agrupacion-Lupus-Chile/static/js/2.e8a7d154.chunk.js"
   },
   {
-    "revision": "dde03277eb4ef0858253",
-    "url": "/Agrupacion-Lupus-Chile/static/js/main.7a2b6646.chunk.js"
+    "revision": "60338a57051723a820cc",
+    "url": "/Agrupacion-Lupus-Chile/static/js/main.d87f127d.chunk.js"
   },
   {
     "revision": "1642ee6d79ae302f75b9",
