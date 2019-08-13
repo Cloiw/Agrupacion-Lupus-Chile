@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "25aa45e69f6209aecf5902f204102b60",
+    "revision": "c6bed88210d0a6f3db78ec160dc67259",
     "url": "/Agrupacion-Lupus-Chile/index.html"
   },
   {
-    "revision": "e7a4b5f1eb9d6dce68ad",
+    "revision": "2023afd5c18598c8ab0f",
     "url": "/Agrupacion-Lupus-Chile/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "8d9b87fbbeee6a9a7a4d",
+    "revision": "decea34a23a80badeb87",
     "url": "/Agrupacion-Lupus-Chile/static/css/main.f92da119.chunk.css"
   },
   {
-    "revision": "e7a4b5f1eb9d6dce68ad",
-    "url": "/Agrupacion-Lupus-Chile/static/js/2.9a92ce91.chunk.js"
+    "revision": "2023afd5c18598c8ab0f",
+    "url": "/Agrupacion-Lupus-Chile/static/js/2.80a9b60b.chunk.js"
   },
   {
-    "revision": "8d9b87fbbeee6a9a7a4d",
-    "url": "/Agrupacion-Lupus-Chile/static/js/main.0a278753.chunk.js"
+    "revision": "decea34a23a80badeb87",
+    "url": "/Agrupacion-Lupus-Chile/static/js/main.32434e47.chunk.js"
   },
   {
     "revision": "1642ee6d79ae302f75b9",

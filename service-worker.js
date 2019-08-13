@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Agrupacion-Lupus-Chile/precache-manifest.d73efb0560f88bd87e2e59f4b17d4549.js"
+  "/Agrupacion-Lupus-Chile/precache-manifest.551a04b5034d6668444318a1950d0f35.js"
 );
 
 self.addEventListener('message', (event) => {
